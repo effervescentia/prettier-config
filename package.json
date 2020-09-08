@@ -1,0 +1,14 @@
+{
+  "name": "prettier-config-tkstr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/effervescentia/prettier-config",
+  "author": "Ben Teichman <ben.l.teichman@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.1.1"
+  }
+}
